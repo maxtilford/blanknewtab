@@ -1,0 +1,9 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "description": "Opens new tab pages as blanks. Also allows custom pages (modify newtab.html in source).",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCfuIM6s3bIXAStB7vpE2hkwOPmUcYTp4YWh0yg3cd1Vf00N33T6Y8220bWSRnus4LZKssMShfdhWWpN3wILNQcl41rkucTAJXxD1vwDBG8jRCT9ienamdQcMdHWa4JrMw3raHkVFGotP6oXtAUHiXmSfKx4AC1l46cQIbDxgqvJwIDAQAB",
+   "name": "New tab page",
+   "version": "1.0"
+}
